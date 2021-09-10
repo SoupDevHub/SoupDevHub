@@ -1,10 +1,31 @@
-# Hi
+## 🔧 Tools
 
-### I'm Soup, a (mainly) C# developer. This is the place I throw all of my trash projects, things I need help with, and things I think should be open source.
+🪟 OS: Windows
 
-### FAQ:
+💾 Programming language(s): C#, JS, Python
 
--   What are you currently working on? - I'm currently working on a few closed source games using the Unity game engine, but I edit [RoboSoup](https://github.com/SoupDevHub/RoboSoup "Bot that does things for discord.") sometmes too.
--   What do you do other then that? - I play Minecraft more than any sane person would.
+📖 Learning: [learning here]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupDevHub&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+🔧 Main Hobbies: [hobbies here]
+
+## 📈 Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupDevHub&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/SoupDevHub/SoupDevHub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupDevHub&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/SoupDevHub/SoupDevHub)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoupDevHub&theme=synthwave)](https://git.io/streak-stats)
+
+## Check out some of my projects!
+
+sandwich-machine -  on org "sandwich-machine"
+RoboSoup
+
+Big thanks to [add someone here](add link here) for helping out with some of my projects! Check out his work!
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SoupDevHub/count.svg" />
+</p>
+
+
