@@ -4,9 +4,9 @@
 
 💾 Programming language(s): C#, JS, Python
 
-📖 Learning: [learning here]
+📖 Learning: Unity
 
-🔧 Main Hobbies: [hobbies here]
+🔧 Main Hobbies: Reading, Gaming, Streaming
 
 ## 📈 Stats
 
@@ -21,7 +21,7 @@
 sandwich-machine -  on org "sandwich-machine"
 RoboSoup
 
-Big thanks to [add someone here](add link here) for helping out with some of my projects! Check out his work!
+Big thanks to [electron271](https://github.com/electron271) for helping out with some of my projects! Check out his work!
 
 <p align="center"> 
   Visitor count<br>
