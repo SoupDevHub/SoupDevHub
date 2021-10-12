@@ -1,6 +1,6 @@
 ## 🔧 Tools
 
-🪟 OS: Windows
+💿 OS: Windows
 
 💾 Programming language(s): C#, JS, Python
 
@@ -18,8 +18,8 @@
 
 ## Check out some of my projects!
 
-sandwich-machine -  on org "sandwich-machine"
-RoboSoup
+- sandwich-machine -  on org "sandwich-machine"
+- RoboSoup
 
 Big thanks to [electron271](https://github.com/electron271) for helping out with some of my projects! Check out his work!
 
