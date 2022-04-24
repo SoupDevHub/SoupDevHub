@@ -6,7 +6,9 @@
 
 📖 Learning: Unity
 
-🔧 Main Hobbies: Reading, Gaming, Streaming
+🔧 Main Hobbies: Coding, Gaming, Streaming
+
+⌨️ IDE: Visual Studio
 
 ## 📈 Stats
 
