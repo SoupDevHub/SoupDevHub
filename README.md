@@ -1,6 +1,6 @@
 ## 🔧 Tools
 
-🪟 OS: Windows
+🖥️ OS: Windows
 
 💾 Programming language(s): C#, JS, Python
 
