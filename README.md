@@ -12,11 +12,11 @@
 
 ## 📈 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupDevHub&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/SoupDevHub/SoupDevHub)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupDevHub&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/SoupHuman/SoupHuman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupDevHub&theme=synthwave&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/SoupDevHub/SoupDevHub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupHuman&theme=synthwave&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/SoupHuman/SoupHuman)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoupDevHub&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoupHuman&theme=synthwave)](https://git.io/streak-stats)
 
 ## Check out some of my projects!
 
