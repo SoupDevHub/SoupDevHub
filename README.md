@@ -23,10 +23,3 @@
 sandwich-machine -  on org "sandwich-machine"
 
 Big thanks to [electron271](https://github.com/electron271) for helping out with most of my projects! Check out their work!
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SoupDevHub/count.svg" />
-</p>
-
-
