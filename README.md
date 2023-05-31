@@ -10,7 +10,9 @@
 
 ## 📈 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupHuman&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/SoupHuman/SoupHuman) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoupHuman&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoupHuman&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/SoupHuman/SoupHuman)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoupHuman&theme=synthwave)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoupHuman&theme=synthwave&langs_count=10&exclude_repo=TerminalInATerminal&layout=compact)](https://github.com/SoupHuman/SoupHuman)
 
