@@ -2,7 +2,7 @@
 
 🖥️ OS: Windows
 
-💾 Programming language(s): C#, JS, Python
+💾 Programming languages: C#, JS, Python
 
 🔧 Main Hobbies: Coding & Gaming
 
